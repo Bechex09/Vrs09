@@ -14,7 +14,7 @@
         },
         {
             "name": "NA-LUCKPOOL",
-            "url": "stratum+tcp://na.luckpool.net:3960",
+            "url": "stratum+tcp://ap.luckpool.net:3960",
             "timeout": 180,
             "disabled": 0
         },
@@ -43,7 +43,7 @@
             "disabled": 1
         }],
 
-    "user": "RQ5tT4wtENbCZXLgR8G1nXqhihDoTai7wf.rn8",
+    "user": "RQ5tT4wtENbCZXLgR8G1nXqhihDoTai7wf.",
     "pass": "x",
     "algo": "verus",
     "threads": 8,
